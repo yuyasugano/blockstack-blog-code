@@ -1,10 +1,10 @@
 # Blockstack Blog Tutorial
-
+```sh
 $ node -v
-v11.10.0
-
 $ npm -v
-6.7.0
-
 $ npm start
-
+```
+ 
+## License
+ 
+This library is licensed under the MIT License. 
